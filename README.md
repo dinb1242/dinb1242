@@ -35,6 +35,6 @@
     :computer: What I do
   </h2>
   
-[![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242)](https://github.com/anuraghazra/github-readme-stats)
+[![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/dinb1242))
   
 </div>
