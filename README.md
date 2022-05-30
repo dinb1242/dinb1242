@@ -25,16 +25,10 @@
   <img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit&#8208;Learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <br/><br/>
-  <h2>
-    🕦 What I did
-  </h2
-  - Developed web-based block coding tool named <b>CodeB(D.I.Y)</b> in College Laboratory
-  - Developed "Weekly exercise management application(ㅎㅓㄹㅣㅇㅓㅂ)" Back-end using NestJS
-  - Developed "Business management application" blahblahhhh
-  <h2>
-    :computer: What I do
-  </h2>
-  
-[![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242)](https://github.com/dinb1242)
-  
 </div>
+
+<h2>
+  GitHub Stats
+</h2>
+  
+  [![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242&count_private=true&show_icons=true&theme=dracula)](https://github.com/dinb1242)
