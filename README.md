@@ -2,7 +2,7 @@
 <div align="center">
   <h3>Hi There🖐</h3>
   <br/>
-  I'm a junior Spring Boot Back-end Developer, and my nickname is Neopchi🐠, which is a delicious korean fish and my GF🙆‍♀️ made it and call me Neopchi.
+  I'm a junior Spring Boot Back-end Developer, and my nickname is Neopchi🐠, which is a delicious korean fish and my GF🙆‍♀️ made this nickname and call me Neopchi.
   <br/><br/>
   I believe that a good application can make the world more comfortable than now!<br/>I would want to be a good companion to do this with you guys☺.
   <br/><br/>
