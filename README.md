@@ -25,7 +25,6 @@
   <img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit&#8208;Learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <br/><br/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242)](https://github.com/anuraghazra/github-readme-stats)
   <h2>
     🕦 What I did
   </h2
@@ -35,4 +34,7 @@
   <h2>
     :computer: What I do
   </h2>
+  
+[![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
