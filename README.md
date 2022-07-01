@@ -8,7 +8,7 @@
   <br/><br/>
   Even though I'm a Spring Boot Developer, but I'm interested in python as a second language, and usually use it when I want to make something interesting such as Data Science and Artificial Intelligence(Although I'm a novice), or a simple API Server(Fast API). 
   
-  Because python, as a toy, is so fun!
+  Because python, as a toy itself, is so fun!
 
   <h2>
   :hammer: Tech. Stack :wrench:
