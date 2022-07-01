@@ -6,7 +6,7 @@
   <br/><br/>
   I believe that a good application can make the world more comfortable than now!<br/>I would want to be a good companion to do this with you guys☺.
   <br/><br/>
-  Even though I'm a Spring Boot Developer, but I'm interested in python as a second language, and usually use it when I want to make something interesting such as Data Science and Artificial Intelligence(Although I'm a novice), or a simple API Server(Fast API). Because I believe that I can develop almost everything with python.
+  Even though I'm a Spring Boot Developer, but I'm interested in python as a second language, and usually use it when I want to make something interesting such as Data Science and Artificial Intelligence(Although I'm a novice), or a simple API Server(Fast API). Because python, as a toy, is so fun!
 
   <h2>
   :hammer: Tech. Stack :wrench:
