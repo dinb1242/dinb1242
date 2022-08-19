@@ -33,4 +33,4 @@
   GitHub Stats
 </h2>
   
-  [![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/dinb1242)
+  [![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242&count_private=true&show_icons=true&theme=dracula)](https://github.com/dinb1242)
