@@ -2,13 +2,11 @@
 <div align="center">
   <h3>Hi There🖐</h3>
   <br/>
-  I'm a junior Spring Boot Back-end Developer, and my nickname is Neopchi🐠, which is a delicious korean fish. My GF🙆‍♀️ made the nickname and she calls me Neopchi.
+  I'm a junior Back-end Developer, and my nickname is Neopchi🐠, which is a delicious korean fish. My GF🙆‍♀️ made the nickname and she calls me Neopchi.
   <br/><br/>
   I believe that a good application can make the world more comfortable than now!<br/>I would want to be a good companion to do this with you guys☺.
   <br/><br/>
-  Even though I'm a Spring Boot Developer, but I'm interested in python as a second language, and often use it when I want to make something interesting such as Data Science or Artificial Intelligence(Although I'm a novice), or a simple API Server(Fast API). 
-  
-  Because python, as a toy itself, is so fun!
+  Even though I usually use java as a main language, but I'm also interested in typescript and python as a sub language. Especially, I often use not only typescript(Nest.js) when I make my own toy projects, but also python when I want to make something interesting such as Data Science or Artificial Intelligence(Although I'm a novice), or a simple API Server using thoes(Fast API). 
 
   <h2>
   :hammer: Tech. Stack :wrench:
