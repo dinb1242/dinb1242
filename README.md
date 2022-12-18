@@ -6,7 +6,7 @@
   <br/><br/>
   I believe that a good application can make the world more comfortable than now!<br/>I would want to be a good companion to do this with you guys☺.
   <br/><br/>
-  Even though I usually use java as a main language, but I'm also interested in typescript and python as a sub language. Especially, I often use not only typescript(Nest.js) when I make my own toy projects, but also python when I want to make something interesting such as Data Science or Artificial Intelligence(Although I'm a novice), or a simple API Server using thoes(Fast API). 
+  Even though I usually use java as a main language, but I'm also interested in typescript and python as sub languages. Especially, I often use not only typescript(Nest.js) when I make my own toy projects, but also python when I want to make something interesting such as Data Science or Artificial Intelligence(Although I'm a novice), or a simple API Server using thoes(Fast API). 
 
   <h2>
   :hammer: Tech. Stack :wrench:
