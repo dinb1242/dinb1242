@@ -31,4 +31,4 @@
   GitHub Stats
 </h2>
   
-  [![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242&count_private=true&show_icons=true&theme=transparent&custom_title=HappyDeveloper&orgs=mirim-solution)](https://github.com/dinb1242)
+  [![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242&count_private=true&show_icons=true&theme=transparent&custom_title=HappyDeveloper)](https://github.com/dinb1242)
