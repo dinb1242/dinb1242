@@ -41,8 +41,11 @@
   <br/><br/>
 </div>
 
+<!--
 <h2>
   GitHub Stats
 </h2>
   
   [![JiHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinb1242&count_private=true&show_icons=true&theme=transparent&custom_title=HappyDeveloper)](https://github.com/dinb1242)
+
+-->
