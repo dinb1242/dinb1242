@@ -9,8 +9,8 @@
   <s>Even though I usually use java as a main language, but I'm also interested in typescript and python as sub languages. Especially, I often use not only typescript(Nest.js) when I make my own toy projects, but also python when I want to make something interesting such as Data Science or Artificial Intelligence(Although I'm a novice), or a simple API Server using thoes(Fast API). </s>
   <br/><br/>
   Flutter turned me on changing into mobile front-end devloper, and now I opened my eyes to a brand-new front-end development as an art.
-  I want to be an authentic developer,
-  I want to be an aritist 🎨.
+  I want to be an authentic front-end developer,
+  I want to be an aritist who paints the world with apps 🎨.
 
   <h2>
   :hammer: Tech. Stack :wrench:
