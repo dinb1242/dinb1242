@@ -17,10 +17,9 @@
   <h2>
   :hammer: Tech. Stack :wrench:
   </h2>
-  <h3>Main</h3>
+  <h3>Main & Substantial</h3>
   <img alt="dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
   <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <h3>Substantial</h3>
   <img alt="Java" src ="https://img.shields.io/badge/Java-EF2D5E.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <br/>
